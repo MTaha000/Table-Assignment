@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(236, 243, 243);
+}
+table{
+    border: 1px solid black;
+    margin: 0px auto;
+}
+th{
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+.blue{
+    background-color: rgb(162, 208, 235);
+}
+.green{
+    background-color: rgb(159, 230, 152);
+}
+.orange{
+    background-color: rgb(243, 216, 166);
+}
+.yellow{
+    background-color: rgb(241, 241, 169);
+}
+.brown{
+    background-color: rgb(211, 197, 72);
+}
+.gray{
+    background-color: rgb(223, 231, 231);
+}
+.sky{
+    background-color: azure;
+}
+.purple{
+    background-color: rgb(236, 191, 236);
+}
+.text{
+    writing-mode:vertical-lr;
+}
